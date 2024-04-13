@@ -122,7 +122,6 @@ public class Menu {
             } catch (IOException e) {
                 System.out.println("Error reading input.");
             }
-
         }
     }
 
